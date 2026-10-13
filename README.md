@@ -80,9 +80,9 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-12 20:00 |
-| 官网状态 | 在线（284ms） |
-| 30 天可用率 | 100%（已测 22 天） |
+| 最近一次检测 | 2026-10-13 20:00 |
+| 官网状态 | 在线（295ms） |
+| 30 天可用率 | 100%（已测 23 天） |
 | 连续正常 | 24 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
@@ -106,6 +106,7 @@
 5. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.co/brands/weifeng/)
 6. [飞猫云](https://github.com/tizizhinan/tizi-feimao) · [完整评测](https://tizizhinan.co/brands/feimao/)
 7. [无忧链接](https://github.com/tizizhinan/tizi-wuyou) · [完整评测](https://tizizhinan.co/brands/wuyou/)
+8. [边缘节点](https://github.com/tizizhinan/tizi-edgenova) · [完整评测](https://tizizhinan.co/brands/edgenova/)
 
 完整榜单与横向对比：[github.com/tizizhinan/tizi](https://github.com/tizizhinan/tizi) ｜ [https://tizizhinan.co/airport/recommend/](https://tizizhinan.co/airport/recommend/)
 
