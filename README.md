@@ -80,10 +80,10 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-14 20:00 |
-| 官网状态 | 在线（312ms） |
+| 最近一次检测 | 2026-10-15 20:00 |
+| 官网状态 | 在线（285ms） |
 | 30 天可用率 | 100%（已测 24 天） |
-| 连续正常 | 24 天 |
+| 连续正常 | 25 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
@@ -97,7 +97,7 @@
 
 ## 本站收录的其他机场
 
-宇宙云在 [2026 机场推荐榜](https://tizizhinan.co/airport/recommend/) 中排第 2 位。同榜其余各家：
+宇宙云在 [2026 机场推荐榜](https://tizizhinan.co/airport/recommend/) 中排第 1 位。同榜其余各家：
 
 1. [二猫云](https://github.com/tizizhinan/tizi-ermaoyun) · [完整评测](https://tizizhinan.co/brands/ermaoyun/)
 2. [光速云](https://github.com/tizizhinan/tizi-guangsu) · [完整评测](https://tizizhinan.co/brands/guangsu/)
