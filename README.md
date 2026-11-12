@@ -80,10 +80,10 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-11-11 20:00 |
-| 官网状态 | 在线（529ms） |
+| 最近一次检测 | 2026-11-12 20:00 |
+| 官网状态 | 在线（281ms） |
 | 30 天可用率 | 100%（已测 27 天） |
-| 连续正常 | 49 天 |
+| 连续正常 | 50 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.blog/status/](https://tizizhinan.blog/status/)，机器可读数据见 [monitor.json](https://tizizhinan.blog/data/monitor.json)（CC BY 4.0）。
 
